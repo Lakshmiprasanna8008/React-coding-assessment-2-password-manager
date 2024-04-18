@@ -1,0 +1,126 @@
+.whole-container {
+  background-color: #9ba9eb;
+  min-height: 100vh;
+  padding: 16px;
+  width: 100vw;
+  font-family: 'Roboto';
+}
+.app-logo {
+  height: 60px;
+  width: 180px;
+}
+.password-creation-container {
+  background-color: #5763a5;
+  padding: 16px;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.password-manager {
+  height: 260px;
+  width: 280px;
+}
+.details-container {
+  background-color: #454f84;
+  padding: 16px;
+  margin-top: 7px;
+  border-radius: 10px;
+}
+h1 {
+  color: #f8fafc;
+  font-size: 18px;
+}
+.input-container {
+  background-color: #f8fafc;
+  display: flex;
+  justify-content: center;
+  border-radius: 5px;
+}
+.input-img {
+  background-color: #f8fafc;
+  width: 40px;
+  height: 40px;
+  padding: 10px;
+}
+.input-text {
+  color: #454f84;
+  font-weight: 600;
+}
+.add-button {
+  width: 80px;
+  padding: 5px;
+  color: #f8fafc;
+  background-color: #0b69ff;
+  border-width: 0px;
+  border-radius: 5px;
+  cursor: pointer;
+  outline: none;
+}
+.button-container {
+  text-align: right;
+}
+.passwords-container {
+  background-color: #5763a5;
+  padding: 16px;
+  border-radius: 10px;
+  margin-top: 20px;
+}
+.passwords-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.password-header-container-one {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  color: #f8fafc;
+  font-weight: 600;
+}
+.count-button {
+  border-radius: 25px;
+  margin-left: 10px;
+  background-color: transparent;
+  color: #f8fafc;
+  font-weight: 600;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-color: #c3caea;
+}
+.search-container {
+  display: flex;
+  justify-content: center;
+}
+.search-img {
+  background-color: #f8fafc;
+  width: 30px;
+  height: 30px;
+  padding: 7px;
+}
+hr {
+  border: 1px solid #c3caea;
+}
+.checkbox-container {
+  text-align: right;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  color: #f8fafc;
+}
+.checkbox {
+  margin-right: 7px;
+}
+.no-password-img {
+  width: 250px;
+  height: 250px;
+}
+.no-password-container {
+  text-align: center;
+}
+.no-password-text {
+  font-size: 24px;
+  color: #f8fafc;
+  font-weight: 600;
+}

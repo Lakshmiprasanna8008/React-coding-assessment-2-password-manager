@@ -1,0 +1,16 @@
+.delete-button {
+  border-width: 0px;
+  background-color: transparent;
+  cursor: pointer;
+
+  width: 30px;
+  height: 30px;
+}
+li {
+  border: 1px solid #b6c3ca;
+  display: flex;
+  justify-content: space-between;
+}
+.profile-container {
+  display: flex;
+}
